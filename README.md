@@ -5,7 +5,7 @@
 
   - [MULTIPLE PDF CHATBOT](https://github.com/srija1122/Multiple_pdf_chatbot/tree/main)
   - [TWITTER SENTIMENT ANALYSIS](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [GENETIC ALGO](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [GENETIC ALGO](https://github.com/srija1122/Genetic_algo/tree/main)
 
 
 
